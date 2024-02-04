@@ -1,0 +1,12 @@
+{
+  "name": "comp2156",
+  "version": "1.0.0",
+  "description": "comp2156 -- Cristian S test - Github action CI/CD Integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Warning: No tests created yet.\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
